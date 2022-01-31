@@ -1,0 +1,14 @@
+body{
+    padding: 1cm;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 5cm;
+}
+form{
+    text-align: center;
+}
+button{
+ background-color:rgb(202, 216, 213);
+}
+select{
+    margin-bottom: 0.5cm;
+}
